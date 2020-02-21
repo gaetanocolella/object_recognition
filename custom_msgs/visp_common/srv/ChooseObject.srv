@@ -1,0 +1,4 @@
+string object
+---
+geometry_msgs/Point object_center
+bool success
